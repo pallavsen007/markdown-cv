@@ -7,6 +7,7 @@ Graduate Student, Indian Institute of Technology.
 
 <div id="webaddress">
 <a href="https://pallavsen007.github.io">Website</a>
+<a href=""https://twitter.com/PallavSengupta3>Twitter Handle</a>
 </div>
 
 
@@ -37,17 +38,25 @@ __Indian Institute of Technology, Guwahati__
 
 
 
-## Awards
+## Honors and Scholarships 
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`2020`
+Graduate Aptitute Test in Engineering, 95.60 percentile 
 
 
+`2018`
+DBT scholarship to pursue M.Sc 
 
-<!-- ### Footer
+## Research Experience
 
-Last updated: May 2013 -->
+`July 2017- September 2017`
+Summer Research Intern,
+Defence Research Laboratory,
+Defence Research and Development Organization(DRDO)
 
+
+`Nov 2020 - Dec 2020`
+Research Scientist,
+Multidisciplinary Research Unit,
+Jorhat Medical College and Hospital, Assam
 
