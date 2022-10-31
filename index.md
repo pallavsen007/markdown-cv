@@ -7,7 +7,6 @@ Graduate Student, Indian Institute of Technology.
 
 <div id="webaddress">
 <a href="https://pallavsen007.github.io">Website</a>
-<a href=""https://twitter.com/PallavSengupta3>Twitter Handle</a>
 </div>
 
 
