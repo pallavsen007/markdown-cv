@@ -49,13 +49,13 @@ DBT scholarship to pursue M.Sc
 ## Research Experience
 
 ### July 2017- September 2017
-Summer Research Intern.
-Defence Research Laboratory.
-Defence Research and Development Organization(DRDO).
+Summer Research Intern,<br>
+Defence Research Laboratory,<br>
+Defence Research and Development Organization(DRDO).<br>
 
 
 ### Nov 2020 - Dec 2020
-Research Scientist. 
-Multidisciplinary Research Unit.
-Jorhat Medical College and Hospital, Assam.
+Research Scientist, <br>
+Multidisciplinary Research Unit, <br>
+Jorhat Medical College and Hospital, Assam.<br>
 
